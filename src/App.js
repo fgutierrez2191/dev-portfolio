@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Contact from './components/Contact'
 import Portfolio from './components/Portfolio';
 import Header from "./components/Header"
+import Project from "./components/Project";
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
       </Header>
       <main>
       <div>{renderPage(currentPage)}</div>
+      <Project></Project>
       </main>
       <Footer>
 
