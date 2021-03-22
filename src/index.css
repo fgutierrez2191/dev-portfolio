@@ -1,4 +1,4 @@
-/* body {
+/* /* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -108,6 +108,7 @@ a:hover {
 
 header {
   background: var(--dark);
+
 }
 
 header a {
@@ -307,4 +308,4 @@ a {
 
 .navActive {
   color: var(--secondary);
-}
+} 
