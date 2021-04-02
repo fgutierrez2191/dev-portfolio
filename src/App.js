@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Contact from './components/Contact'
 import Portfolio from './components/Portfolio';
 import Header from "./components/Header";
+import Resume from './components/Resume';
 
 function App() {
 
@@ -17,6 +18,8 @@ function App() {
         return <Portfolio />;
       case 'Contact':
         return <Contact />;
+        case 'Resume':
+          return <Resume />;
       default:
         return <About />;
     }
