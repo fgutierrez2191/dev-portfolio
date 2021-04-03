@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dev-portfolio/static/css/main.872de844.chunk.css",
+    "main.js": "/dev-portfolio/static/js/main.25263171.chunk.js",
+    "main.js.map": "/dev-portfolio/static/js/main.25263171.chunk.js.map",
+    "runtime-main.js": "/dev-portfolio/static/js/runtime-main.1459b89f.js",
+    "runtime-main.js.map": "/dev-portfolio/static/js/runtime-main.1459b89f.js.map",
+    "static/js/2.bb5cc217.chunk.js": "/dev-portfolio/static/js/2.bb5cc217.chunk.js",
+    "static/js/2.bb5cc217.chunk.js.map": "/dev-portfolio/static/js/2.bb5cc217.chunk.js.map",
+    "index.html": "/dev-portfolio/index.html",
+    "static/css/main.872de844.chunk.css.map": "/dev-portfolio/static/css/main.872de844.chunk.css.map",
+    "static/js/2.bb5cc217.chunk.js.LICENSE.txt": "/dev-portfolio/static/js/2.bb5cc217.chunk.js.LICENSE.txt",
+    "static/media/airforce2.jpg": "/dev-portfolio/static/media/airforce2.2c2ee838.jpg",
+    "static/media/brewery1.jpg": "/dev-portfolio/static/media/brewery1.94ec347e.jpg",
+    "static/media/collectors-haven-logo.jpg": "/dev-portfolio/static/media/collectors-haven-logo.fc649eb1.jpg",
+    "static/media/glass.jpg": "/dev-portfolio/static/media/glass.56c5bb27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1459b89f.js",
+    "static/js/2.bb5cc217.chunk.js",
+    "static/css/main.872de844.chunk.css",
+    "static/js/main.25263171.chunk.js"
+  ]
+}
