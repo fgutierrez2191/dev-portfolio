@@ -28,9 +28,9 @@ function Portfolio() {
         },
         {
           name: 'collectors-haven',
-          description: 'Node',
-          link: "https://github.com",
-          repo: "https://github.com", 
+          description: 'A new take on a project that was originally built with vanilla js. Collectors haven is now using the MERN stack. ',
+          link: "https://aqueous-taiga-86315.herokuapp.com/",
+          repo: "https://github.com/peters0470/group-project3", 
           image: "airforce2"
 
         },
